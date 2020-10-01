@@ -1,2 +1,2 @@
 # python
-new repo for testing code
+new repository for testing code.
